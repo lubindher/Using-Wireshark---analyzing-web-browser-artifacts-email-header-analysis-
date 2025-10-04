@@ -1,4 +1,5 @@
 # Using-Wireshark---analyzing-web-browser-artifacts-email-header-analysis
+## Lubindher S - 212222240056
 ## AIM:
 To use Wireshark to analyze web browser activities and inspect email headers from captured network traffic.
 ## Architecture Diagram:
@@ -55,6 +56,12 @@ flowchart TD
 ```
 
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 132206" src="https://github.com/user-attachments/assets/1ad07341-fe18-4444-ae21-1d0828be5da9" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 132247" src="https://github.com/user-attachments/assets/233b9732-53f6-4407-afe1-36c2b597e325" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 134456" src="https://github.com/user-attachments/assets/d7dfbc60-32e2-4a03-b234-a08fb7d9d9dd" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 134542" src="https://github.com/user-attachments/assets/a8b2fad7-87b9-46bb-95d0-74cfb55a4147" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 134622" src="https://github.com/user-attachments/assets/5de1826b-5332-4736-ac5e-69a8e86bb5e5" />
 Captured Web Activity and Email Header Information
 
 ## RESULT:
